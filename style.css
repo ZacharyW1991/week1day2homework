@@ -21,4 +21,10 @@ footer{
     size: 20%;
     border-top: 1px solid lightgray;
     text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+}
+li{
+    display: inline;
+    padding: 50px;
 }
